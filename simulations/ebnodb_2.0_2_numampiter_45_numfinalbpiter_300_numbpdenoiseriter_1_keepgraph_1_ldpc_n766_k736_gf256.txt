@@ -1,0 +1,6 @@
+BER:	0.0000e+00
+BLER:	0.0000e+00
+Num Bit Errors:	0
+Num Block Errors:	0
+Completed sims:	0
+Empirical SNR:	0.0
